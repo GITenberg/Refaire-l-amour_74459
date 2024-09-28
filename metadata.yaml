@@ -1,5 +1,8 @@
 _repo: Refaire-l-amour_74459
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74459-h/images/cover.jpg
 creator:
   author:
     agent_name: Rachilde
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Rachilde
     - https://fr.wikipedia.org/wiki/Rachilde
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74459#Refaire-l-amour
 gutenberg_issued: '2024-09-22'
 gutenberg_type: Text
 identifiers:
